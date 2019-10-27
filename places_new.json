@@ -1,0 +1,1703 @@
+[
+  {
+    "name": "Ezītis miglā Aldaru ielā",
+    "description": {
+      "lv": "Omulīga kafejnīca Vecrīgas pagrabiņā. Tofu un falafelburers, pica ar vegānisku sieru, tofu tortilja, šokolādes kūka. Sojas piens pie kafijas.",
+      "en": "Cozy cafe in the Old Town. Tofu and falafel burger, pizza with vegan \"cheese\", tofu tortilla, chocolate cake. Soy milk for coffee.",
+      "ru": "Уютное кафе в подвальчике Старой Риги. Тофу и фалафел-бургер, пицца с веганским сыром, тофу-тортилья, шоколадное пирожное. Соевое молоко к кофе."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/ezitismiglaaldaruiela/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/ezitis-migla-aldaru",
+    "position": {
+      "address": "Aldaru iela 12/14",
+      "coordinate": {
+        "latitude": 56.9511657,
+        "longitude": 24.106580099999974
+      }
+    }
+  },
+  {
+    "name": "L'Acquerello",
+    "description": {
+      "lv": "Lieliskas krāsnī ceptas picas, iespējams ņemt ar vegānisku sieru un bez. ",
+      "en": "Excellent oven-baked pizzas, can order with or without vegan cheese",
+      "ru": "Превосходные пиццы, печёные в печи. С веганским сыром или без него."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/lacquerello/",
+    "position": {
+      "address": "Baznīcas iela 8",
+      "coordinate": {
+        "latitude": 56.95641389999999,
+        "longitude": 24.11912069999994
+      }
+    }
+  },
+  {
+    "name": "Terapija",
+    "description": {
+      "lv": "100% vegāniska mājīga kafejnīca. Pusdienu piedāvājumi, burgeri, salāti, kūkas, saldie u.c. ",
+      "en": "Homely cafe, 100% vegan. Daily lunch offers, burgers, salads, cakes, desserts etc.",
+      "ru": "Уютное 100% веганское кафе. Обеденное предложение, бургер, салат, пирожные, сладкие блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/auguterapija/",
+    "position": {
+      "address": "Bruņinieku iela 69",
+      "coordinate": {
+        "latitude": 56.9539906,
+        "longitude": 24.136492900000007
+      }
+    }
+  },
+  {
+    "name": "Mr.Fox",
+    "description": {
+      "lv": "Veselīgi pamatēdieni, humosi, vrapi, saldie. Kafijas ar augu pieniem.",
+      "en": "Healthy main courses, hummus, wraps, desserts. Coffee with plant milk",
+      "ru": "Здоровые основные блюда, гумус, свитки с начинкой, сладкие блюда. Кофе с растительным молоком."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/mrfox.lv/",
+    "position": {
+      "address": "Dzirnavu iela 34a",
+      "coordinate": {
+        "latitude": 56.9586385,
+        "longitude": 24.11257569999998
+      }
+    }
+  },
+  {
+    "name": "AsparaGoose",
+    "description": {
+      "lv": "Svaigs, veselīgs ēdiens, arī līdzņemšanai. Zupas, Budas bļoda, vrapi, saldie. ",
+      "en": "Raw, healthy dishes, also for takeaway. Soups, Buddha bowls, wraps, desserts.",
+      "ru": "Свежая, здоровая пища, также на вынос. Супы, Buddha bowl, свитки с начинкой, сладкие блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/asparagooselv/?ref=br_rs",
+    "position": {
+      "address": "Lidosta \"Rīga\" 10/1",
+      "coordinate": {
+        "latitude": 56.922093,
+        "longitude": 23.979278099999988
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Ādaži, Gaujas iela 8",
+      "coordinate": {
+        "latitude": 57.0765989,
+        "longitude": 24.32321120000006
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Zirņu iela 8",
+      "coordinate": {
+        "latitude": 56.9715001,
+        "longitude": 24.13247279999996
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Blaumaņa iela 5A",
+      "coordinate": {
+        "latitude": 56.95494120000001,
+        "longitude": 24.122595300000057
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Dzelzavas iela 72",
+      "coordinate": {
+        "latitude": 56.9556924,
+        "longitude": 24.190628100000026
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Vienības gatve 113",
+      "coordinate": {
+        "latitude": 56.908207,
+        "longitude": 24.081678399999987
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Ķekavas pag., Krustkalni Džutas, T/C A7",
+      "coordinate": {
+        "latitude": 56.8958299,
+        "longitude": 24.139016999999967
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Andreja Saharova iela 3A",
+      "coordinate": {
+        "latitude": 56.9339901,
+        "longitude": 24.200820399999998
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Juglas krastmala 2",
+      "coordinate": {
+        "latitude": 56.9893838,
+        "longitude": 24.245461999999975
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Kurzemes prospekts 21",
+      "coordinate": {
+        "latitude": 56.963263,
+        "longitude": 24.031739300000027
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Maskavas iela 322",
+      "coordinate": {
+        "latitude": 56.9043049,
+        "longitude": 24.19149900000002
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Mazā Nometņu iela 27",
+      "coordinate": {
+        "latitude": 56.9352946,
+        "longitude": 24.072101599999996
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Skuju iela 25",
+      "coordinate": {
+        "latitude": 57.0335368,
+        "longitude": 24.105102399999964
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Jelgava, Raiņa iela 20",
+      "coordinate": {
+        "latitude": 56.6480932,
+        "longitude": 23.72040919999995
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Tomsona iela 25",
+      "coordinate": {
+        "latitude": 56.9657856,
+        "longitude": 24.12615870000002
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Jūrmala, Viestura iela 22",
+      "coordinate": {
+        "latitude": 56.97470449999999,
+        "longitude": 23.858971399999973
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Kārļa Ulmaņa gatve 114A",
+      "coordinate": {
+        "latitude": 56.9371068,
+        "longitude": 24.005242299999964
+      }
+    }
+  },
+  {
+    "name": "Pica Lulū",
+    "description": {
+      "lv": "2 vegāniskas krāsnī ceptas picas, parasti jāpasūta iepriekš. Pieejama parastā un plānā pamatne. ",
+      "en": "3 vegan oven-baked pizzas, pre-ordering recommended. Regular and thin crust available",
+      "ru": "3 веганские пиццы, печёные в печи, желательно заказать наперёд. На обычной и также на тонкой основе."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/picalulu/",
+    "position": {
+      "address": "Rīga, Tērbatas iela 2c",
+      "coordinate": {
+        "latitude": 56.95255,
+        "longitude": 24.11739
+      }
+    }
+  },
+  {
+    "name": "Bhajan Cafe Riga ",
+    "description": {
+      "lv": "100% vegāniska izsmalcināta kafejnīca. Pamatēdieni, saldie, burgeri, salāti, zupas, u.c. ",
+      "en": "Elegant cafe, 100% vegan. Main courses, desserts, burgers, salads, soups etc.",
+      "ru": "Изысканное 100% веганское кафе. Основные блюда, бургер, салат, суп, сладкие блюда и.т.д."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/bhajancaferiga/?ref=br_rs",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/bhajan-cafe",
+    "position": {
+      "address": "Antonijas iela 10",
+      "coordinate": {
+        "latitude": 56.95841979999999,
+        "longitude": 24.111895499999946
+      }
+    }
+  },
+  {
+    "name": "Wok n Curry",
+    "description": {
+      "lv": "Indiešu, ķīniešu un taizemiešu virtuve. ",
+      "en": "Indian, Chinese and Thai cuisine",
+      "ru": "Индийская, китайская, тайландская кухня."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/woknkurry/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/wok-n-kurry-restorans",
+    "position": {
+      "address": "Krišjāņa Barona iela 52",
+      "coordinate": {
+        "latitude": 56.9545411,
+        "longitude": 24.128358400000025
+      }
+    }
+  },
+  {
+    "name": "MiiT Coffee",
+    "description": {
+      "lv": "Pusdienu piedāvājumi, saldie, specialty kafijas ar augu pienu, fast food u.c. ",
+      "en": "Daily lunch offers, desserts, fast food, specialty coffee with plant milk etc.",
+      "ru": "Обеденное предложение, сладкие, кофе specialty с растительным молоком, fast food и.т.д."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/miit.tiim/",
+    "position": {
+      "address": "Lāčplēša iela 10",
+      "coordinate": {
+        "latitude": 56.9566728,
+        "longitude": 24.120467700000063
+      }
+    }
+  },
+  {
+    "name": "StockPot",
+    "description": {
+      "lv": "Dažādu Āzijas virtuvju ēdieni (bieži - pikanti). ",
+      "en": "Asian-inspired dishes (often spicy)",
+      "ru": "Блюда разных видов азиатской кухни (нередко пикантные)."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/Stockpotriga/",
+    "position": {
+      "address": "Ģertrūdes iela 6",
+      "coordinate": {
+        "latitude": 56.958295,
+        "longitude": 24.12052779999999
+      }
+    }
+  },
+  {
+    "name": "StockPot XLs",
+    "description": {
+      "lv": "Dažādu Āzijas virtuvju ēdieni (bieži - pikanti). Piektdienās visa ēdienkarte vegāniska.  ",
+      "en": "Asian-inspired dishes (often spicy). All-vegan menu on Fridays",
+      "ru": "Блюда разных видов азиатской кухни (нередко пикантные). По пятницам – все блюда веганские."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/Stockpotriga/",
+    "position": {
+      "address": "Krišjāņa Valdemāra iela 36",
+      "coordinate": {
+        "latitude": 56.9591206,
+        "longitude": 24.118930500000033
+      }
+    }
+  },
+  {
+    "name": "Bea Basil",
+    "description": {
+      "lv": "Zupas, tartars, raw lazanja, lēcas, saldie. ",
+      "en": "Soups, tartare, raw lasagne, lentils, desserts",
+      "ru": "Супы, raw лазанья, тартар, чечевица, сладкие блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/BeaBasilCafe/",
+    "position": {
+      "address": "Kvēles iela 41",
+      "coordinate": {
+        "latitude": 56.9833223,
+        "longitude": 24.24891809999997
+      }
+    }
+  },
+  {
+    "name": "Runa Tearoom",
+    "description": {
+      "lv": "Tējnīca ar pusdienu piedāvājumiem - falafels, zupas, smūtiji, vrapi. ",
+      "en": "Tearoom, offer daily lunches. Falafel, soups, smoothies, wraps",
+      "ru": "Чаёвня с обеденным предложением - фалафел, супы, смутти,.свитки с начинкой."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/runatearoom/",
+    "position": {
+      "address": "Zirgu iela 3",
+      "coordinate": {
+        "latitude": 56.9501929,
+        "longitude": 24.109856700000023
+      }
+    }
+  },
+  {
+    "name": "Aqua Luna",
+    "description": {
+      "lv": "Izsmalcināts restorāns Andrejsalā -  falafels, ravioli, tartars.",
+      "en": "Exquisite restaurant in Andrejsala - falafel, ravioli, tartare",
+      "ru": "Изысканный ресторан на Андрейсала - фалафел, равиоли, тартар ."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/AquaLunaRiga/",
+    "position": {
+      "address": "Andrejostas iela 5k",
+      "coordinate": {
+        "latitude": 56.961825,
+        "longitude": 24.095254
+      }
+    }
+  },
+  {
+    "name": "Fat Pumpkin",
+    "description": {
+      "lv": "100% vegānisks restorāns. Pamatēdieni, kūkas, burgeri, salāti, zupas, u.c. Arī svaigēdāju opcijas. ",
+      "en": "100% vegan restaurant. Main courses, cakes, burgers, salads, soups etc. Also raw dishes",
+      "ru": "100% веганский ресторан.  Основные блюда,  бургер, салат, супы, пирожные, а также сыроедческие блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/FatPumpkin/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/fat-pumpkin",
+    "position": {
+      "address": "Grēcinieku iela 11",
+      "coordinate": {
+        "latitude": 56.94712149999999,
+        "longitude": 24.10852479999994
+      }
+    }
+  },
+  {
+    "name": "The Beginnings (Spice)",
+    "description": {
+      "lv": "Veselīgu ēdienu restorāns, svaigēdāju opcijas. Bezgrēka konditoreja, smūtiji u.c. ",
+      "en": "Health food restaurant, raw options. Guilt-free desserts, smoothies etc.",
+      "ru": "Ресторан здорового питания. сыроедческие блюда, кондитерская \"без греха\", смутти  и.т.д."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/thebeginningsrestorani/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/the-beginnings-spice",
+    "position": {
+      "address": "Lielirbes iela 29",
+      "coordinate": {
+        "latitude": 56.929771,
+        "longitude": 24.03655779999997
+      }
+    }
+  },
+  {
+    "name": "\"BIKI\" deserti",
+    "description": {
+      "lv": "Gelato saldējumi, arī vafeles bez dzīvnieku valsts produktiem.",
+      "en": "Delicious plant-based gelato, vegan waffle cones.",
+      "ru": "Вкусные растительные мороженные  gelato, а также  вафли без животных продуктов."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/bikisaldumi/",
+    "position": {
+      "address": "Zeltiņu iela 16, Mārupe",
+      "coordinate": {
+        "latitude": 56.9107961,
+        "longitude": 24.04135109999993
+      }
+    }
+  },
+  {
+    "name": "Terra (Skanstes iela)",
+    "description": {
+      "lv": "Iespēja sakomplektēt savus ēdienus, saldie. ",
+      "en": "Build your own meal from vegan ingredients. Delicious desserts",
+      "ru": "Можно самим скомплектовать свои блюда. Вкусные сладости."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/TerraRestorani/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/terra-skanstes-iela",
+    "position": {
+      "address": "Skanstes iela 54a",
+      "coordinate": {
+        "latitude": 56.97753890000001,
+        "longitude": 24.13150500000006
+      }
+    }
+  },
+  {
+    "name": "Terra (Blaumaņa iela)",
+    "description": {
+      "lv": "Iespēja sakomplektēt savus ēdienus, saldie. ",
+      "en": "Build your own meal from vegan ingredients. Delicious desserts",
+      "ru": "Можно самим скомплектовать свои блюда. Вкусные сладости."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/TerraRestorani/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/terra-blaumana-iela",
+    "position": {
+      "address": "Blaumaņa iela 9",
+      "coordinate": {
+        "latitude": 56.9542239,
+        "longitude": 24.12333890000002
+      }
+    }
+  },
+  {
+    "name": "Lokāls Veldze",
+    "description": {
+      "lv": "Patīkama atmosfēra.  Wok ar tofu, vegāniskais burgeris un speciālie piedāvājumi. ",
+      "en": "Pleasant atmosphere. Tofu stir-fry, vegan burger and special offers",
+      "ru": "Приятная атмосфера, Wok с тофу, веганский бургер и специальные  предложения."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/LokalsVeldze/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/lokals-veldze",
+    "position": {
+      "address": "Kalnciema iela 40f",
+      "coordinate": {
+        "latitude": 56.94217829999999,
+        "longitude": 24.064745500000072
+      }
+    }
+  },
+  {
+    "name": "BALTS",
+    "description": {
+      "lv": "Ēdieni līdzņemšanai dabai draudzīgos iepakojumos. Suši, miso zupa, čia pudiņš, salāti. ",
+      "en": "Takeaway (environmentallly friendly packaging). Sushi, miso, chia pudding, salads",
+      "ru": "Еда на вынос (в упаковках дружелюбныйх по отношению к окружающей среде ). Суши, суп мисо, пудинг из чиа,  салат."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/balts.lv/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/balts",
+    "position": {
+      "address": "Ģertrūdes iela 27",
+      "coordinate": {
+        "latitude": 56.9560835,
+        "longitude": 24.125295199999982
+      }
+    }
+  },
+  {
+    "name": "Himalaya Kitchen",
+    "description": {
+      "lv": "Nepālas virtuve. ",
+      "en": "Nepalese cuisine",
+      "ru": "Непальсая кухня."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/himalayaju/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/himalaya",
+    "position": {
+      "address": "Brīvības iela 102",
+      "coordinate": {
+        "latitude": 56.9610849,
+        "longitude": 24.133330500000056
+      }
+    }
+  },
+  {
+    "name": "Mazā Terapija",
+    "description": {
+      "lv": "100% vegāniska, jauka kafejnīca. Kūkas, bulciņas, pusdienu piedāvājumi, vakariņas. ",
+      "en": "Lovely cafe, 100% vegan. Cakes, pastries, daily lunch offers, dinners",
+      "ru": "Уютное 100% веганское кафе. Пирожные, булочки, обеденное предложение, ужин."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/mazaterapija/",
+    "position": {
+      "address": "Skolas iela 28",
+      "coordinate": {
+        "latitude": 56.9590283,
+        "longitude": 24.1211548
+      }
+    }
+  },
+  {
+    "name": "Nirvana Raw",
+    "description": {
+      "lv": "100% vegāniska svaigēdāju kafejnīca. Pusdienu piedāvājumi, kūkas, tējas, sulas. ",
+      "en": "100% vegan raw food cafe. Daily lunch offers, cakes, tea, juice",
+      "ru": "100% веганское сыроедческое кафе. Обеденное предложение, пирожные, чаи, соки."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/rawfoodnirvana/",
+    "position": {
+      "address": "Ģertrūdes iela 5",
+      "coordinate": {
+        "latitude": 56.9586515,
+        "longitude": 24.120749299999943
+      }
+    }
+  },
+  {
+    "name": "JRRMV",
+    "description": {
+      "lv": "Skolas bistro tipa ēdnīca, iespēja sakomplektēt savu ēdienu. ",
+      "en": "School cafeteria, option to build your own meal ",
+      "ru": "Столовая типа школьного бистро. Можно самим скомплектовать свои блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/NMV-Ja%C5%86a-Rozent%C4%81la-M%C4%81kslas-skola-133373683380273/",
+    "position": {
+      "address": "Hāmaņa iela 2A",
+      "coordinate": {
+        "latitude": 56.9519284,
+        "longitude": 24.069723299999964
+      }
+    }
+  },
+  {
+    "name": "Nata cafe",
+    "description": {
+      "lv": "Sojšliks, plovs, samosas, pelmeņi, Cēzara salāti, kotletes, dienas piedāvājumi",
+      "en": "Cutlets, Caesar salad, soyshlik, plov, samosas and more",
+      "ru": "Соевый шашлык, плов, самосы (восточные пирожки с начинкой) салат цезарь, котлеты"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/natacaferiga/",
+    "position": {
+      "address": "Lāčplēša iela 108",
+      "coordinate": {
+        "latitude": 56.9425597,
+        "longitude": 24.131111199999964
+      }
+    }
+  },
+  {
+    "name": "Chill inn",
+    "description": {
+      "lv": "Svaigēdāju branči brīvdienās ",
+      "en": "Raw brunches on weekends",
+      "ru": "Сыроедческий бранч по выходным дням."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/velasbrokastis/",
+    "position": {
+      "address": "Bernāti LV 3471, \"Arāji\"",
+      "coordinate": {
+        "latitude": 56.3758025,
+        "longitude": 20.987883900000043
+      }
+    }
+  },
+  {
+    "name": "Shawarmas",
+    "description": {
+      "lv": "Kebabi - falafelu, sojas, ķirbju un lēcu. ",
+      "en": "Kebabs with falafel, soy, pumpkin and lentils",
+      "ru": "Кебаб –фалафельный, соевый, тыквенный и чечевичный."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/Shawarmas.Latvia/",
+    "position": {
+      "address": "Krišjāņa Barona iela 60",
+      "coordinate": {
+        "latitude": 56.955079,
+        "longitude": 24.12946169999998
+      }
+    }
+  },
+  {
+    "name": "Stars Coffee",
+    "description": {
+      "lv": "Mīlīga kafejnīca ar specialty kafiju, avokado maizēm, tofu omletēm, smūtiju bļodām, saldajiem u.c. ",
+      "en": "Charming cafe with specialty coffee, avocado sandwich, tofu omelette, smoothie bowl, desserts etc.",
+      "ru": "Милое кафе с кофе specialty. Хлеб с авокадо, омлет с тофу, смутти, сладкие и.т.д."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/starscoffee.co/?ref=br_rs&fb_dtsg_ag=AQzPXN2EMsteq-8cXX9kWLZT5I0-JfIG5HOFEkXDi1Lc1Q%3AAQwTj6fXS-XwWJmONucN7Nb6G263bl2i7yHLf4oKuA5f8g&jazoest=27481",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/stars-coffee",
+    "position": {
+      "address": "Aleksandra Čaka iela 41-1B",
+      "coordinate": {
+        "latitude": 56.9529569,
+        "longitude": 24.12969780000003
+      }
+    }
+  },
+  {
+    "name": "Big Bad Bagels",
+    "description": {
+      "lv": "Vairāki augu valsts beigeļi - ar gvakamoli, humusu un biešu humusu, kā arī saldie beigeļi. ",
+      "en": "Several plant-based bagels - with guacamole, hummus, beetroot hummus, and sweet bagels",
+      "ru": "Несколько видов багелей  из растительных  ингредиентов – с гвакамоли, хумусом, свекольным хумусом, а также сладкие багели."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/BBBagels/",
+    "wolt": "https://wolt.com/en/lva/riga/restaurant/big-bad-bagels",
+    "position": {
+      "address": "Baznīcas iela 8",
+      "coordinate": {
+        "latitude": 56.95641389999999,
+        "longitude": 24.11912069999994
+      }
+    }
+  },
+  {
+    "name": "Big Bad Bagels Spīķeri",
+    "description": {
+      "lv": "Vairāki augu valsts beigeļi - ar gvakamoli, humusu un biešu humusu, kā arī saldie beigeļi. ",
+      "en": "Several plant-based bagels - with guacamole, hummus, beetroot hummus, and sweet bagels",
+      "ru": "Несколько видов багелей  из растительных  ингредиентов – с гвакамоли, хумусом, свекольным хумусом, а также сладкие багели."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/BBBagels/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/big-bad-bagels-spikeri",
+    "position": {
+      "address": "Maskavas iela 4",
+      "coordinate": {
+        "latitude": 56.9424574,
+        "longitude": 24.114385200000015
+      }
+    }
+  },
+  {
+    "name": "BioBio",
+    "description": {
+      "lv": "Bioloģisku produktu veikals un kafejnīca. Putras, otrie, kūkas, uzkodas, kvinojas pica, specialty kafija u.c. ",
+      "en": "Shop and cafe offering natural products. Porridges, main courses, snacks, quinoa crust pizza, specialty coffee etc.",
+      "ru": "Био продуктовый магазин и кафе. Каши, вторые блюда, пирожные, пицца из квинои, закуски, кофе specialty  и.т.д."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/biobiostory/",
+    "position": {
+      "address": "Krišjāņa Barona iela 11",
+      "coordinate": {
+        "latitude": 56.95202279999999,
+        "longitude": 24.122316100000035
+      }
+    }
+  },
+  {
+    "name": "Gardā pupa",
+    "description": {
+      "lv": "Bistro tipa ēdnīca, gardi, lēti ēdieni. ",
+      "en": "Bistro-type eatery, cheap and delicious meals",
+      "ru": "Столовая типа бистро. Вкусно, недорого."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/GardaPupa/",
+    "position": {
+      "address": "Kalnciema iela 1/k2",
+      "coordinate": {
+        "latitude": 56.94596439999999,
+        "longitude": 24.082549900000004
+      }
+    }
+  },
+  {
+    "name": "Garuda",
+    "description": {
+      "lv": "Ēdnīca tirzniecības centrā \"Riga Plaza\", iespēja sakomplektēt savu ēdienu.",
+      "en": "Eatery inside a shopping centre  \"Riga Plaza\". Selection of vegan main and side dishes",
+      "ru": "Столовая в торговом центре \"Riga Plaza\". Можно самим скомплектовать свои блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/garudacafe/",
+    "position": {
+      "address": "Mūkusalas iela 71",
+      "coordinate": {
+        "latitude": 56.9258134,
+        "longitude": 24.10557629999994
+      }
+    }
+  },
+  {
+    "name": "Cake House Amalia",
+    "description": {
+      "lv": "3 augu valsts kūkas - 2 svaigēdāju, viena citrusa krēmīgā kūka. Augu pieni pie kafijas vai kakao. ",
+      "en": "3 plant-based cakes - creamy citrus and 2 raw cakes. Plant milks with coffee or cocoa",
+      "ru": "3 пирожных из растительных  ингредиентов – 2 сыроедческие , 1 с цитрусовым кремом, кофе или какао с растительным молоком."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/cakehouseamalija/",
+    "position": {
+      "address": "Vērmanes dārzs",
+      "coordinate": {
+        "latitude": 56.951505,
+        "longitude": 24.12059
+      }
+    }
+  },
+  {
+    "name": "Putni ",
+    "description": {
+      "lv": "Kūkas, vafeles ar putukrējumu, raw kūciņas, bulciņas",
+      "en": "Cakes, waffles with whipped cream, raw cakes, pastries",
+      "ru": "Пирожные, вафли со сливками, сыроедческие пирожные, булочки."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/putnijelgava/",
+    "position": {
+      "address": "Jelgava, Mātera iela 40",
+      "coordinate": {
+        "latitude": 56.64512939999999,
+        "longitude": 23.72226790000002
+      }
+    }
+  },
+  {
+    "name": "Academia",
+    "description": {
+      "lv": "Brokastis visas dienas garumā, avokado maizes, putras, kafijas ",
+      "en": "All day breakfast, avocado sandwich, porridge, coffee",
+      "ru": "Завтрак в течение всего дня. Хлеб с авокадо, каши, кофе."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/academiacoffeebar/",
+    "position": {
+      "address": "Jelgava, Akadēmijas iela 4a",
+      "coordinate": {
+        "latitude": 56.65121,
+        "longitude": 23.72805440000002
+      }
+    }
+  },
+  {
+    "name": "B'owl (Centrālais Gastro Tirgus) ",
+    "description": {
+      "lv": "Kāpostu tīteņi, plācenīši, dažādas salātu bļodas, iespēja sakombinēt savus ēdienus",
+      "en": "Cabbage rolls, different salad bowls, build your own meal",
+      "ru": "Голубцы, блинчики, большой выбор салата. Можно самим скомплектовать свои блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://centralais.lv/our-places/bowl/",
+    "position": {
+      "address": "Centrāltirgus iela, 3 k.2",
+      "coordinate": {
+        "latitude": 56.9436751,
+        "longitude": 24.114842899999985
+      }
+    }
+  },
+  {
+    "name": "Yakuza Sushi",
+    "description": {
+      "lv": "Japāņu virtuve - suši, salāti, zupas",
+      "en": "Japanese cuisine - sushi, salads, soups",
+      "ru": "Японская кухня - суши, салат, супы."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/YakuzaRiga/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/yakuza-sushi",
+    "position": {
+      "address": "Elizabetes iela 10",
+      "coordinate": {
+        "latitude": 56.957765,
+        "longitude": 24.11075900000003
+      }
+    }
+  },
+  {
+    "name": "Yakuza (Lidosta)",
+    "description": {
+      "lv": "Japāņu virtuve - suši, salāti, zupas",
+      "en": "Japanese cuisine - sushi, salads, soups",
+      "ru": "Японская кухня - суши, салат, супы."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/YakuzaRiga/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/yakuza-lidosta",
+    "position": {
+      "address": "Lidosta Rīga, terminal B/C",
+      "coordinate": {
+        "latitude": 56.9226554,
+        "longitude": 23.973312899999996
+      }
+    }
+  },
+  {
+    "name": "Yakuza Sushi (Biķernieku)",
+    "description": {
+      "lv": "Japāņu virtuve - suši, salāti, zupas",
+      "en": "Japanese cuisine - sushi, salads, soups",
+      "ru": "Японская кухня - суши, салат, супы."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/YakuzaRiga/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/yakuza-bikernieku",
+    "position": {
+      "address": "Biķernieku iela 141",
+      "coordinate": {
+        "latitude": 56.9572095,
+        "longitude": 24.238699199999928
+      }
+    }
+  },
+  {
+    "name": "Dhama",
+    "description": {
+      "lv": "Pelmeņi ar soju, kāpostiem, kartupeļiem, vareņiki ar āboliem, ķiršiem. Kartupeļu pankūkas, pusdienu piedāvājumi. ",
+      "en": "Dumplings filled with with soy, cabbage, potatoes, vareniki with apple, cherry filling. Potato pancakes, daily lunch offers",
+      "ru": "Пельмени с соевой, капустной, картофельной начинкой, вареники с яблоками и вишней, картофельные блины, обеденное предложение."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/Dhama.vegetarian.food/",
+    "position": {
+      "address": "Maskavas iela 174A",
+      "coordinate": {
+        "latitude": 56.93435299999999,
+        "longitude": 24.15806299999997
+      }
+    }
+  },
+  {
+    "name": "Mierā",
+    "description": {
+      "lv": "Kūkas, saldumi, katru dienu zupas, reizi mēnesī - vegāniski branči.",
+      "en": "Cakes, sweets, soups every day, vegan brunch once a month.",
+      "ru": "Пироги, сладости, супы каждый день, ежемесячно веганские бранчи."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/KafejnicaMieraa/",
+    "position": {
+      "address": "Miera iela 9, Rīga",
+      "coordinate": {
+        "latitude": 56.961361,
+        "longitude": 24.12967589999994
+      }
+    }
+  },
+  {
+    "name": "Muffins and More",
+    "description": {
+      "lv": "Mafini un augu piens pie kafijām. ",
+      "en": "Muffins and coffee with plant milk",
+      "ru": "Пышки и растительное молоко к кофе."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/muffinsandmore/",
+    "position": {
+      "address": "Ģertrūdes iela 9, Rīga",
+      "coordinate": {
+        "latitude": 56.95841309999999,
+        "longitude": 24.121237000000065
+      }
+    }
+  },
+  {
+    "name": "Kaķīškalns",
+    "description": {
+      "lv": "Atpūtas un sporta komplekss. Falafels, chilli sin carne, asā tomātu zupa. ",
+      "en": "Sports and recreation complex. Falafel, chilli sin carne, spicy tomato soup ",
+      "ru": "Комплекс спорта и отдыха. Фалафел, chilli sin carne, пикантный томатный суп."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/mezakakis/",
+    "position": {
+      "address": "Senču iela 1, Sigulda",
+      "coordinate": {
+        "latitude": 57.1438642,
+        "longitude": 24.829122299999995
+      }
+    }
+  },
+  {
+    "name": "Ezītis Miglā Tallinas iela",
+    "description": {
+      "lv": "Zupas, pasta, burgers, šokolādes kūka, otrie ēdieni. ",
+      "en": "Soups, pasta, burger, schocolate cake, main courses",
+      "ru": "Супы, паста, шоколадное пирожное, вторые блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/tallinasezitis/",
+    "wolt": "https://wolt.com/en/lva/riga/restaurant/tallinas-kvartala-ezitis-migla",
+    "position": {
+      "address": "Tallinas iela 10 Rīga",
+      "coordinate": {
+        "latitude": 56.96430849999999,
+        "longitude": 24.134788100000037
+      }
+    }
+  },
+  {
+    "name": "Trompete",
+    "description": {
+      "lv": "Humosa plate, portobello burgers, cepts baklažāns,  pasta ar tomātiem, citronu gelato u.c. ",
+      "en": "Hummus platter, portobello burger, fried eggplant, pasta with tomatos, lemon gelato etc",
+      "ru": "Хумус на пластине, бургер портобелло, жаренный баклажан, паста с помидорами, лимонное мороженное и. т. д.."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/trompeteLV/",
+    "wolt": "https://wolt.com/en/lva/riga/restaurant/trompete-taproom",
+    "position": {
+      "address": "Peldu iela 24, Rīga",
+      "coordinate": {
+        "latitude": 56.9460259,
+        "longitude": 24.10801200000003
+      }
+    }
+  },
+  {
+    "name": "Mūkusala kafejnīca",
+    "description": {
+      "lv": "Iespēja sakomplektēt savus ēdienus. ",
+      "en": "Option to build your own meal",
+      "ru": "Возможность самим скомплектовать свои блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/Mukusala.Kafejnica/",
+    "position": {
+      "address": "Dēļu iela 7, Rīga",
+      "coordinate": {
+        "latitude": 56.93472449999999,
+        "longitude": 24.101008099999945
+      }
+    }
+  },
+  {
+    "name": "Mr.Biskvīts",
+    "description": {
+      "lv": "Smūtijbļoda, Budas bļoda, salāti, saldie. ",
+      "en": "Smoothie bowl, Buddha bowl, salads, desserts ",
+      "ru": "Смути, Buddha bowl, салат, сладкие блюда."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/MrBiskvits/",
+    "position": {
+      "address": "Ausekļa iela 9, Sigulda",
+      "coordinate": {
+        "latitude": 57.1537344,
+        "longitude": 24.852447600000005
+      }
+    }
+  },
+  {
+    "name": "Cafe M ",
+    "description": {
+      "lv": "Zero-waste kafejnīca. Maizītes, bezglutēna, bezcukura kūkas, kafijas ar augu pienu. ",
+      "en": "Zero-waste cafe. Sandwiches, glutenfree and sugarfree cakes, coffee with plant milk",
+      "ru": "Кафе Zero-waste. Булочки, пирожные, также без глютена и без сахара, кофе с растительным молоком."
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/CafeMriga/",
+    "position": {
+      "address": "Kr. Barona iela 41/43, Rīga",
+      "coordinate": {
+        "latitude": 56.9551246,
+        "longitude": 24.128738399999975
+      }
+    }
+  },
+  {
+    "name": "Annas Dārzs",
+    "description": {
+      "lv": "Saldā kartupeļa un turku zirņu karijs, gaspačo, marakujas kūka",
+      "en": "Sweet potato and chickpea curry, gazpacho, passionfruit cake",
+      "ru": "Карри из сладкого картофеля и турецкого гороха, гаспачо, пирожное из маракуи."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/AnnasDarzs/",
+    "position": {
+      "address": "Mūkusalas iela 44, Rīga",
+      "coordinate": {
+        "latitude": 56.9343996,
+        "longitude": 24.104809499999988
+      }
+    }
+  },
+  {
+    "name": "Doma",
+    "description": {
+      "lv": "Saldā kartupeļa frī ar gvakamoli, austersēnes burgers, burrito, salāti. ",
+      "en": "Sweet potato fries with guacamole, burger with oyster mushroom, burrito, salads",
+      "ru": "Фритки из сладкого картофеля с гвакамоли, Бургер с вешенкой, буррито, салат."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/domasigulda/",
+    "position": {
+      "address": "Leona Paegles iela 15A, Sigulda",
+      "coordinate": {
+        "latitude": 57.1599829,
+        "longitude": 24.8458478
+      }
+    }
+  },
+  {
+    "name": "Loja",
+    "description": {
+      "lv": "Kafejnīca 90to gadu stilā. Biezzupa, otrais, sorberts. ",
+      "en": "90-s style cafe. Cream soup, main course, sorbet",
+      "ru": "Кафе в стиле девяностых. Суп-пюре, вторые блюда, сорбет."
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/KafejnicaLoja/",
+    "position": {
+      "address": "Miera iela 33, Rīga",
+      "coordinate": {
+        "latitude": 56.9642577,
+        "longitude": 24.13207239999997
+      }
+    }
+  },
+  {
+    "name": "Hasana restorāns",
+    "description": {
+      "lv": "Indiešu virtuve, lētas cenas.",
+      "en": "Indian cuisine, cheap prices.",
+      "ru": "Индийская кухня, низкие цены."
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/Hasana-Restaurant-280309509550866/",
+    "position": {
+      "address": "Brīvības iela 93",
+      "coordinate": {
+        "latitude": 56.9607679,
+        "longitude": 24.13140420000002
+      }
+    }
+  },
+  {
+    "name": "Mala",
+    "description": {
+      "lv": "Bārs, kurā var arī paēst. Zupas, humoss, kūkas.",
+      "en": "Bar which serves food as well. Soups, humoss, cakes.",
+      "ru": "Бар, где можно поесть. супы, юмосс, торты"
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/telpamala/",
+    "position": {
+      "address": "Cēsis, Lenču iela 11",
+      "coordinate": {
+        "latitude": 57.314623,
+        "longitude": 25.27148950000003
+      }
+    }
+  },
+  {
+    "name": "Tūkstoš lapu Konditoreja",
+    "description": {
+      "lv": "Dārzeņu un ķiršu strūdeles, saldējums, avokado, kakao un ķiršu kūkas",
+      "en": "Vegetable and cherry strudel, nice-cream, avocado, cacao and rasberry cakes",
+      "ru": "Овощные и вишнёвые штрудели, мороженое, авокадо, какао и вишнёвые пирожные"
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/tukstoslapu/",
+    "position": {
+      "address": "Rīga, Ūnijas iela 67 k 1",
+      "coordinate": {
+        "latitude": 56.96511,
+        "longitude": 24.17768
+      }
+    }
+  },
+  {
+    "name": "Dēkainis",
+    "description": {
+      "lv": "Izcila atmosfēra, 3 pamatēdieni - lieliska pasta, burgers, sojas pamatēdiens. 2 veidu zupas un katru dienu - pusdienu piedāvājums!",
+      "en": "Perfect atmosphere, 3 main dishes - amazing pasta, burger and soy main dish. 2 soups and every working day - vegan daily lunch offer!",
+      "ru": "Великолепная атмосфера, 3 основных блюда: аппетитная паста , бургер , основное блюдо из сои. Два вида супов и ежедневное обеденное предложение!"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/Dekainis2018/",
+    "wolt": "https://wolt.com/lv/lva/riga/restaurant/dekainis",
+    "position": {
+      "address": "Rīga, Baložu iela 12",
+      "coordinate": {
+        "latitude": 56.944892,
+        "longitude": 24.07373
+      }
+    }
+  },
+  {
+    "name": "Himalayan Garden Restaurant",
+    "description": {
+      "lv": "Nepālas virtuve",
+      "en": "Nepalese cuisine",
+      "ru": "Непальсая кухня"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.himalayangarden.lv/",
+    "wolt": "https://wolt.com/en/lva/riga/restaurant/himalayan-garden",
+    "position": {
+      "address": "Rīga, Blaumaņa iela 14",
+      "coordinate": {
+        "latitude": 56.954133,
+        "longitude": 24.122941
+      }
+    }
+  },
+  {
+    "name": "Maestro",
+    "description": {
+      "lv": "Viesnīcas restorāns ar pieciem pamatēdieniem, kā arī ar iespēju pielāgot jebkuru ēdienu.",
+      "en": "Hotel restaurant with 5 main dishes",
+      "ru": "Гостиничный ресторан с пятью основными блюдами"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/maestrodesignhotel/",
+    "position": {
+      "address": "Liepāja, Jūras iela 22",
+      "coordinate": {
+        "latitude": 56.511738,
+        "longitude": 21.009525
+      }
+    }
+  },
+  {
+    "name": "Darbnīca",
+    "description": {
+      "lv": "Pusdienu piedāvajumi & burgers, zupas",
+      "en": "Daily lunch offer, burger & soups",
+      "ru": "Обеденное предложение, супы, бургер"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/darbnicacafe/",
+    "position": {
+      "address": "Liepāja, Lielā iela 8",
+      "coordinate": {
+        "latitude": 56.510537,
+        "longitude": 21.01294
+      }
+    }
+  },
+  {
+    "name": "Stirna&avocado",
+    "description": {
+      "lv": "Pusdienas, ēdieni līdzņemšanai, kūkas un citi gardumi",
+      "en": "Daily lunch, take-away food, cakes and other tasty things",
+      "ru": "Обеденное предложение, растительные блюда на вынос, пирожное"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/avocadostirna/",
+    "position": {
+      "address": "Sigulda, Krišjāņa Valdemāra iela 3a",
+      "coordinate": {
+        "latitude": 57.153877,
+        "longitude": 24.849631
+      }
+    }
+  },
+  {
+    "name": "Kadagi",
+    "description": {
+      "lv": "9 gardi vegāniski hotdogi",
+      "en": "9 tasty vegan hotdogs",
+      "ru": "9 аппетитных веганских хотдогов;"
+    },
+    "category": {
+      "lv": "Fast food",
+      "en": "Fast food",
+      "ru": "Fast food"
+    },
+    "website": "https://www.facebook.com/kadagidog/",
+    "wolt": "https://wolt.com/en/lva/riga/restaurant/kadagi-dog",
+    "position": {
+      "address": "Rīga, Nometņu iela 44",
+      "coordinate": {
+        "latitude": 56.939641,
+        "longitude": 24.073966
+      }
+    }
+  },
+  {
+    "name": "Aveņi",
+    "description": {
+      "lv": "Atsevišķa ēdienkarte - zupa, otrie, salāti",
+      "en": "Seperate menu for vegan options - soups, main dishes, salads",
+      "ru": "Отдельное меню- суп, вторые блюда, салаты"
+    },
+    "category": {
+      "lv": "Restorāni un ēdnīcas",
+      "en": "Restaurants and canteens",
+      "ru": "Рестораны и столовые"
+    },
+    "website": "https://www.facebook.com/krogsaveni/",
+    "position": {
+      "address": "Jauncode, Codes pagasts, Aveņmuiža",
+      "coordinate": {
+        "latitude": 56.414796,
+        "longitude": 24.179301
+      }
+    }
+  },
+  {
+    "name": "Kafijas Galerija",
+    "description": {
+      "lv": "Zupa, saldie, kūkas, kafijas ar augu pieniem",
+      "en": "Soups, sweets, cakes, coffees with plant-based milks",
+      "ru": "Суп, сладости, пирожные, кофе с растительным молоком"
+    },
+    "category": {
+      "lv": "Kafejnīcas un konditorejas",
+      "en": "Cafes and bakeries",
+      "ru": "Кафе и кондитерские"
+    },
+    "website": "https://www.facebook.com/KafijasGalerija/",
+    "position": {
+      "address": "Sigulda, Krišjāņa Valdemāra iela 3a",
+      "coordinate": {
+        "latitude": 57.153874,
+        "longitude": 24.849645
+      }
+    }
+  }
+]
